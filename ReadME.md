@@ -6,7 +6,7 @@ Facebook Login Integration :
 
  SDK version : 4.12.0
 
- Goto developers.facebook.com and create an application.
+ Goto `developers.facebook.com` and create an application.
 
  Follow the process and add key hash. (Easier way of adding key hash is search for "KeyHash" in log. I already added a logic to get keyhash programatically in `LoginActivity`)
 
